@@ -23,3 +23,4 @@ function isPalindromeChecker(word) {
 isPalindromeChecker("level");
 
 
+
